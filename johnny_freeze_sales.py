@@ -4,7 +4,7 @@ import os
 from datetime import date
 
 # Excel file path
-excel_file = "/Users/jyoung/Documents/JohnnyFreeze/johnny_freeze_sales.xlsx"
+excel_file = "JohnnyFreeze/johnny_freeze_sales.xlsx"
 
 # Page Navigation Functions
 def go_to_page(page_name):
