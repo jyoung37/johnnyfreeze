@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 
 # Excel file name
-FILE_NAME = "/Users/jyoung/Documents/JohnnyFreeze/johnny_freeze_hours.xlsx"
+FILE_NAME = "JohnnyFreeze/johnny_freeze_hours.xlsx"
 
 # Make sure file exists with correct columns
 if not os.path.exists(FILE_NAME):
