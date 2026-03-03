@@ -1,0 +1,1 @@
+python3 -m streamlit run /Users/jyoung/Documents/JohnnyFreeze/Sales/johnny_freeze_sales.py
