@@ -1,1 +1,1 @@
-python3 -m streamlit run /Users/jyoung/Documents/JohnnyFreeze/Sales/johnny_freeze_sales.py
+python3 -m streamlit run JohnnyFreeze/Sales/johnny_freeze_sales.py
